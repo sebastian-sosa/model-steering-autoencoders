@@ -1,0 +1,10 @@
+black==24.1.1
+einops==0.7.0
+ipykernel==6.29.2
+ipython==8.18.1
+jaxtyping==0.2.25
+pytest==8.0.0
+torch==2.2.0
+transformer-lens==1.14.0
+transformers==4.37.2
+wandb==0.16.3
