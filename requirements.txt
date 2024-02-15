@@ -2,6 +2,7 @@ black==24.1.1
 einops==0.7.0
 ipykernel==6.29.2
 ipython==8.18.1
+nnsight==0.1.16
 jaxtyping==0.2.25
 pytest==8.0.0
 torch==2.2.0
